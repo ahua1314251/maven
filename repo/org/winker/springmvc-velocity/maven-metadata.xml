@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.winker</groupId>
+  <artifactId>springmvc-velocity</artifactId>
+  <versioning>
+    <release>2.5.5</release>
+    <versions>
+      <version>2.5.5</version>
+    </versions>
+    <lastUpdated>20211109172449</lastUpdated>
+  </versioning>
+</metadata>
